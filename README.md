@@ -17,15 +17,12 @@
   </a> 
   <img align="right" alt="Ric-grana" src="https://i.picasion.com/pic92/a8385fb65363bf3d5c3f39c529e1acea.gif">
 </div>
-
 <br>
 
-<div>
-  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicSilva9&hide=contribs,issues&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicSilva9&theme=midnight-purple&hide_progress=true)
-</div>
+
  ##
 
    ![Snake animation](https://github.com/RicSilva9/RicSilva9/blob/output/github-contribution-grid-snake.svg)
