@@ -17,6 +17,8 @@
   </a> 
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicSilva9&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
  ##
 
    ![Snake animation](https://github.com/RicSilva9/RicSilva9/blob/output/github-contribution-grid-snake.svg)
