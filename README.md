@@ -25,6 +25,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicSilva9&theme=midnight-purple&hide_progress=true)
 
  ##
-
-   ![Snake animation](https://github.com/RicSilva9/RicSilva9/blob/output/github-contribution-grid-snake.svg)
-
+ 
