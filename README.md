@@ -1,5 +1,5 @@
 ## Olá meu nome é Ricardo, atualmente eu estudo desenvolvimento web Front-end.
-- 🌱  Atualmente estou aprendendo HTML e CSS.
+- 🌱  Atualmente estou aprendendo Javascript e Algoritmos.
 - 😄  Pronomes:Ele/dele
 - ⚡   Curiosidades:Eu gosto de gatos e de assistir animes , meu anime favorito é demon slayer.
 <div style="display: inline_block"><br> 
