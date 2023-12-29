@@ -20,5 +20,5 @@
 </div>
 <br>
 
- ##
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicSilva9&theme=transparent&bg_color=2D0F4C&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RicSilva9&layout=compact&bg_color=2D0F4C&border_color=000&title_color=E94D5F&text_color=FFF)
