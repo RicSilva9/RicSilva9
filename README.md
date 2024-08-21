@@ -1,7 +1,7 @@
-## Olá meu nome é Ricardo, atualmente eu estudo desenvolvimento web Front-end.
-- 🌱  Atualmente estou aprendendo React.
-- 😄  Pronomes:Ele/dele
-- ⚡   Curiosidades:Eu gosto de gatos e de assistir animes , meu anime favorito é demon slayer.
+## Oiii! Atualmente eu estudo desenvolvimento web Front-end.
+- 🌱  A principal tecnologia que estou aprendendo no momento é React.
+- 😄  Pronomes: Ele/dele
+- ⚡   Curiosidades: Eu gosto de gatos e de assistir animes, meu anime favorito é demon slayer.
 <div style="display: inline_block">
   <img align="right" height="100px" width="100px" alt="Ric-grana" src="https://i.picasion.com/pic92/a8385fb65363bf3d5c3f39c529e1acea.gif">
 
