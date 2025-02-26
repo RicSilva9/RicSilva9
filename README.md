@@ -27,7 +27,7 @@ Além dos estudos, trabalho **integralmente em um supermercado**, porque, né…
 ---
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RicSilva9&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RicSilva9&theme=dracula" />
+  
 </p>
 
 ---
