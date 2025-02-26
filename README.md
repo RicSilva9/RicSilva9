@@ -1,29 +1,39 @@
-## Oiii! Atualmente eu estudo desenvolvimento web Front-end.
-- 🌱  A principal tecnologia que estou aprendendo no momento é React.
-- 😄  Pronomes: Ele/dele
-- ⚡   Curiosidades: Eu gosto de gatos e de assistir animes, meu anime favorito é demon slayer.
-<div style="display: inline_block">
-  <img align="right" height="100px" width="100px" alt="Ric-grana" src="https://i.picasion.com/pic92/a8385fb65363bf3d5c3f39c529e1acea.gif">
+<h1 align="center"> Ricardo Sousa - Desenvolvedor Front-End </h1>
 
-### Habilidades:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+<div align="center">
+  <img height="100px" width="35%" alt="Ric-grana" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZvcTFieDhmaGFrM2RmbGs4ZDliZnBvcW1oNHl1ZDF3cjNudW5tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/giphy.gif">
 </div>
 
-<div>
+
+### ✨ Seja bem-vindo! 🚀  
+Sou apenas um garoto com um sonho: ser sempre a minha melhor versão. Estou nessa jornada para me tornar um verdadeiro programador, superando desafios um após o outro e enfrentando meu maior inimigo… eu mesmo! 😆  
+
+Atualmente, estudo **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio e estou no **3º período**. Tenho domínio em **HTML, CSS, tailwind e JavaScript**, mas estou focado em aprimorar minhas habilidades em **JavaScript** para tirar o máximo proveito do **React** e **Next.js**, que serão meus próximos grandes objetivos.
+
+Apesar de ser um **desenvolvedor Front-End**, também tenho interesse no **Back-End**! Quero explorar tecnologias como **Node.js** e bancos de dados para me tornar um dev mais completo.
+
+Além dos estudos, trabalho **integralmente em um supermercado**, porque, né… sonhar é de graça, mas torná-los realidade custa dinheiro! 😂 *Ah ha ha ha!*  
+
+
+<div align="center">
   
-### Contatos:
-  <a href = "mailto:rssricardo82@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://www.linkedin.com/in/ricardo-dev13/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
-<br>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+</div>  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicSilva9&theme=transparent&bg_color=2D0F4C&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RicSilva9&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RicSilva9&theme=dracula" />
+</p>
+
+---
+
+<div align="right">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-dev13/)  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-ricardo-ss.vercel.app/)
+</div>
