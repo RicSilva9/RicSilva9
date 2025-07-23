@@ -8,7 +8,7 @@
 ### ✨ Seja bem-vindo! 🚀  
 Sou apenas um garoto com um sonho: ser sempre a minha melhor versão. Estou nessa jornada para me tornar um verdadeiro programador, superando desafios um após o outro e enfrentando meu maior inimigo… eu mesmo! 😆  
 
-Atualmente, estudo **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio e estou no **3º período**. Tenho domínio em **HTML, CSS, tailwind e JavaScript**, mas estou focado em aprimorar minhas habilidades em **JavaScript** para tirar o máximo proveito do **React** e **Next.js**, que serão meus próximos grandes objetivos.
+Atualmente, estudo **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio com (previsão de conclusão: **julho de 2026**). Tenho domínio em **HTML, CSS e JavaScript** e já tive contato com o **TailwindCSS**, mas estou focado em aprimorar minhas habilidades em **JavaScript** para tirar o máximo proveito do **React** e **Next.js**, que serão meus próximos grandes objetivos.
 
 Apesar de ser um **desenvolvedor Front-End**, também tenho interesse no **Back-End**! Quero explorar tecnologias como **Node.js** e bancos de dados para me tornar um dev mais completo.
 
